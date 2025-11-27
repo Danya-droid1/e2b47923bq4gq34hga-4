@@ -21,8 +21,6 @@ project/
 ├─ PI_Practice_Report.docx
 ├─ README.md
 
-
-
 Запуск программы
 
 Python-версия
